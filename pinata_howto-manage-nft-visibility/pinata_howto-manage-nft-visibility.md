@@ -11,7 +11,7 @@ Using Pinata Submarine, Hardhat, and Ethers.js
 
 ![Justin Hunter](https://miro.medium.com/fit/c/96/96/0*5ctWTWayuy_HGclx.jpeg)](https://polluterofminds.medium.com/?source=post_page-----18e9b7a76b8c--------------------------------)[Justin Hunter](https://polluterofminds.medium.com/?source=post_page-----18e9b7a76b8c--------------------------------)Follow[Sep 2](https://medium.com/pinata/how-to-manage-nft-visibility-18e9b7a76b8c?source=post_page-----18e9b7a76b8c--------------------------------) · 16 min read
 
-![](https://miro.medium.com/max/1400/1*YglBomvv5LFT7jCa4z8vPw.gif)
+![](1_YglBomvv5LFT7jCa4z8vPw.gif)
 
 NFTs aren’t just digital pieces of art. They are [layered mechanisms](https://medium.com/pinata/what-is-an-nft-2241d4c0a060) for proving ownership, access, rights, and more. NFT avatars (sometimes knows as PFP—[ProFile Picture](https://twitter.com/paulcowgill/status/1425831453317902337)) have been one of the most popular use cases for NFTs. You can see this with CryptoPunks, Bored Ape Yacht Club (BAYC), and more. But the reason they are popular doesn’t end with the profile picture you get access to. These PFP NFTs are membership tokens more than anything else.
 
@@ -311,6 +311,7 @@ SUCCESS EXAMPLE HERE
 But what happens if you don’t own the NFT? Remember that placeholder for a funny gif? This is where the gif gets to shine. Here’s mine:
 
 ![](1_1LQJTg4kigKyrhCIJsdq9Q.gif)
+
 If you’re interested in the full source code for this tutorial, [it’s located here](https://github.com/polluterofminds/nft-gated-content). I did not set environment variables, so you’ll need to do that or just update the placeholder variables in the code.
 
 Wrapping Up
