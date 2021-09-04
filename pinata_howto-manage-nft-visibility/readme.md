@@ -1,3 +1,5 @@
+Disclaimer:  This method from pinata is likely a moot point but fun for newbies
+
 [Forwarded from @SamBacha https://keys.openpgp.org/vks/v1/by-fingerprint/858023A92C8DA82FB996BB3 lobsterdao]
 https://medium.com/pinata/how-to-manage-nft-visibility-18e9b7a76b8c
 
