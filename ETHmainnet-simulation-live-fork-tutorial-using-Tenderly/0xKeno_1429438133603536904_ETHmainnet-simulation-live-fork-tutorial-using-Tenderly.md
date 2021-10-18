@@ -61,6 +61,6 @@ In this case, it is easy to see that the SUSHI I wanted was received on my addre
 
 # 4
 
-This feature is also super useful for UX testing as one can give out the RPC to testers and look at any failed TX in one Dashboard. More information here in their docs. [notion.so/Tenderly-Forks…](https://www.notion.so/Tenderly-Forks-060a6c268af04356b437135406b0151d)
+This feature is also super useful for UX testing as one can give out the RPC to testers and look at any failed TX in one Dashboard. More information here in their docs. https://www.notion.so/Tenderly-Forks-060a6c268af04356b437135406b0151d and https://blog.tenderly.co/how-to-debug-solidity-smart-contracts-with-tenderly-and-truffle/
 
 Happy to answer any questions, hope this help anyone. :) Have a good day everyone.
